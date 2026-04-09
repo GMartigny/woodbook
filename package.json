@@ -1,0 +1,23 @@
+{
+  "name": "woodbook",
+  "version": "0.0.0",
+  "description": "Woodworking career blog",
+  "homepage": "https://github.com/GMartigny/woodbook#readme",
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "bugs": {
+    "url": "https://github.com/GMartigny/woodbook/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMartigny/woodbook.git"
+  },
+  "author": "GMartigny",
+  "type": "module",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.5",
+    "@11ty/eleventy-img": "^6.0.4"
+  }
+}
