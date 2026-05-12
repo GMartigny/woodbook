@@ -27,6 +27,8 @@ Trois vis servent de points d’accroche pour les outils, tandis que des lames d
 
 Une petite tablette horizontale, réalisée à partir d’une chute de lame de terrasse, vient compléter l’ensemble pour le rangement des accessoires légers. Le tout est assemblé sur une structure en tasseaux fins.
 
+<img src="./design.png" alt="Design" width="800">
+
 ## Réalisation
 
 Le montage est resté volontairement simple et rapide.

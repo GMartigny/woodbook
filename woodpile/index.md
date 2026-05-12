@@ -29,6 +29,8 @@ La structure repose sur 6 poteaux montés sur pieds, avec une organisation en tr
 
 Le choix s’est porté sur du pin, matériau courant en extérieur, avec une mise en œuvre volontairement simple, le projet ne nécessitant pas une précision millimétrique.
 
+<img src="./design.png" alt="Design de l'abri sous Sketchup" width="800">
+
 ## Réalisation
 
 Le montage s’est déroulé sur environ trois jours.
@@ -39,6 +41,8 @@ La partie abri a ensuite été fermée à l’aide de bardage, fixé entre les q
 
 L’ensemble du projet a été réalisé avec des matériaux standards de bricolage extérieur, dans une logique d’efficacité et de robustesse.
 
+<img src="./progress.jpg" alt="Projet en cours de réalisation" width="800">
+
 ## Ce que j’ai appris
 
 Ce projet a surtout été riche en enseignements sur le comportement du bois en extérieur.
@@ -48,4 +52,6 @@ Le bardage, initialement posé de manière trop serrée et avec une fixation ins
 De la même manière, une des sections de mur s’est révélée trop longue sans renforts intermédiaires, ce qui a nécessité l’ajout d’une traverse après coup pour rigidifier l’ensemble.
 
 Ces ajustements m’ont permis de mieux anticiper les contraintes mécaniques et les variations dimensionnelles du bois, en particulier sur des structures extérieures exposées.
+
+<img src="./result.jpg" alt="Abri et palissade finis" width="800">
 

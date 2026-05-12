@@ -24,6 +24,8 @@ Certaines étagères permettent de poser les livres à plat, tandis que d’autr
 
 Pour renforcer l’effet de tronc, j’ai choisi d’utiliser une grande planche de pin à bord vivant, afin d’apporter un contraste plus organique avec les lignes droites des étagères.
 
+<img src="./design.jpg" alt="Design" width="800">
+
 ## Réalisation
 
 La réalisation a commencé par la préparation du tronc.
@@ -36,6 +38,8 @@ Chaque élément a été positionné avec soin pour conserver la continuité du 
 
 Une fois les livres installés, quelques éléments décoratifs comme une plante et du lierre artificiel ont été ajoutés pour accentuer l’effet végétal et renforcer l’illusion de l’arbre.
 
+<img src="./setup.jpg" alt="Aperçu avec morceaux de carton" width="800">
+
 ## Ce que j’ai appris
 
 Ce projet m’a surtout permis de travailler sur la dimension d’agencement et de composition.
@@ -45,3 +49,5 @@ Le travail du bois en lui-même reste relativement limité, mais la phase de con
 Transformer une idée esthétique en installation fonctionnelle implique de jongler entre contraintes techniques, dimensions disponibles et usage réel.
 
 C’est un exercice très proche du travail d’agencement intérieur, où la précision de la planification et de la pose joue un rôle aussi important que la fabrication elle-même.
+
+<img src="./result.jpg" alt="Résultat" width="800">

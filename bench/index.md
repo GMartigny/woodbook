@@ -29,6 +29,8 @@ Le design reste volontairement simple et ajouré afin d’éviter un aspect trop
 
 Pour la matière, j’ai choisi des planches de chêne récupérées dans une recyclerie, ce qui permettait d’utiliser un bois plus noble tout en restant dans une logique de réemploi.
 
+<img src="./design.png" alt="3 designs pour comparaison" width="800">
+
 ## Réalisation
 
 Une fois les plans validés, la fabrication a consisté à suivre les différentes étapes prévues : découpe des planches, préperçages et préparation des assemblages.
@@ -39,6 +41,8 @@ Un premier montage à blanc a permis de vérifier les alignements et les ajustem
 
 L’ensemble forme un banc robuste, avec deux niveaux d’assise adaptés à différents usages.
 
+<img src="./cuts.png" alt="Détails des coupes à faire" width="800">
+
 ## Ce que j’ai appris
 
 Ce projet m’a rappelé l’importance de toujours prévoir un léger jeu lors de l’intégration d’un meuble dans un espace existant.
@@ -46,3 +50,5 @@ Ce projet m’a rappelé l’importance de toujours prévoir un léger jeu lors 
 Le banc avait été conçu pour s’ajuster exactement au rangement IKEA, ce qui a rendu son installation plus compliquée que prévu une fois la structure assemblée. Un léger ponçage a permis de corriger rapidement le problème.
 
 Ce type d’ajustement reste une bonne leçon : même avec un plan précis, il est préférable de garder une petite marge pour absorber les variations réelles du matériau et de l’environnement.
+
+<img src="./result.jpeg" alt="Résultat" width="800">

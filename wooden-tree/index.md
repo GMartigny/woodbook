@@ -37,7 +37,7 @@ Le montage reste simple dans son principe, mais relativement long en raison du n
 
 Une fois assemblé, l’ensemble est stable et lisible, avec une silhouette nette et homogène.
 
-<img src="./result.jpg" width="800" alt="Résultat">
+<img src="./result.jpg" alt="Résultat" width="800">
 
 ## Ce que j’ai appris
 
@@ -48,3 +48,5 @@ La phase de préparation, notamment le calcul et la répartition des longueurs, 
 Cela m’a amené à anticiper davantage en amont, en cherchant un équilibre entre esthétique, cohérence des dimensions et limitation des pertes.
 
 C’est un projet où la simplicité apparente repose en réalité sur une bonne préparation.
+
+<img src="./decorated.jpg" alt="Sapin de bois décoré" width="800">

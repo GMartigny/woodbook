@@ -26,6 +26,8 @@ Le choix des matériaux a aussi été l’occasion d’introduire une variation 
 
 Enfin, une phase de recherche a été nécessaire pour sélectionner un chargeur adapté, avec une puissance suffisante pour une charge rapide et une connectique USB-C cohérente avec les standards actuels.
 
+<img src="./design.png" alt="Design Sketchup" width="800">
+
 ## Réalisation
 
 Une première version fonctionnelle a été réalisée, servant de prototype.

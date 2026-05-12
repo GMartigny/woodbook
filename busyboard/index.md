@@ -26,6 +26,8 @@ Les peintures utilisées proviennent d’ailleurs des restes utilisés pour repe
 
 Une attention particulière a également été portée à la sécurité et au confort : tous les éléments ont été choisis ou positionnés pour être manipulables par un enfant dès environ 8 mois, tout en évitant les pièces dangereuses ou trop bruyantes.
 
+<img src="./design.jpg" alt="Mise en places des modules pour agencement" width="800">
+
 ## Réalisation
 
 Le tableau est constitué d’une planche principale sur laquelle différents modules interactifs ont été fixés.
@@ -53,3 +55,5 @@ La poulie, quant à elle, a tendance à coincer légèrement, ce qui limite son 
 Ces retours d’usage sont précieux, car ils permettent de mieux comprendre ce qui attire réellement l’attention d’un enfant et ce qui mérite d’être amélioré.
 
 Même si l’économie réalisée est finalement limitée, ce projet reste un exercice très formateur, combinant conception, fabrication et observation du comportement utilisateur.
+
+<img src="./result.jpg" alt="Résultat" width="800">
